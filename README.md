@@ -22,21 +22,21 @@
 
 ## 🎯 Objective
 
-This repository shows how to **combine Neo4j + LLMs** to enable **reasoning-based retrieval** — going beyond vector similarity.  
-We use a small **biomedical dataset** with drugs, diseases, biomarkers, and trials to compare **GraphRAG vs. classic RAG**.
+This repository shows how to **combine Neo4j + LLMs** to enable **reasoning-based retrieval** using **GraphRAG** (Graph Retrieval-Augmented Generation).
+We will use a small **biomedical dataset** with drugs, diseases, biomarkers, and trials to compare **GraphRAG vs. classic RAG**.
 
 ---
 
 ## 🧠 Core Idea
 
-Classical RAG retrieves text chunks by similarity.  
-**GraphRAG** retrieves knowledge by relationships.
+Classical RAG retrieves text chunks by vector similarity.
+**GraphRAG** interprets the user query to perform keyword, vector, or hybrid search on the graph, then executes multi-hop traversal to uncover related entities and contextual relationships.
 
 Example query:
 > *“Which researchers in Spain studied immunotherapy drugs for breast cancer?”*
 
-Classical RAG → unrelated text.  
-GraphRAG → structured answer inferred from connected nodes.
+Classical RAG → retrieves isolated, semantically similar text.
+GraphRAG → combines search and reasoning: it identifies key entities, navigates their relationships (Researcher → Trial → Drug → Disease → Location), and generates an explainable, structured answer grounded in graph context.
 
 ---
 
@@ -54,8 +54,6 @@ GraphRAG → structured answer inferred from connected nodes.
   NEO4J_USER=<your_neo4j_username>
   NEO4J_PASSWORD=<your_neo4j_password>
     ```
-
-
 
 ---
 
