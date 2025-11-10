@@ -1,0 +1,20 @@
+# Folders
+trash/
+temp/
+examples/
+medium_files/
+
+# Test
+*.coverage
+
+# Environments
+.venv/
+.env
+
+# Python - VSCode
+.*_cache
+.vscode/
+.DS_Store
+.sesskey
+*__pycache__/
+.ipynb_checkpoints/

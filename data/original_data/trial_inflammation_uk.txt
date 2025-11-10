@@ -1,0 +1,14 @@
+# Page 1
+The IL-6 Inhibition Trial (UK-IL6-2024) was a randomized, double-blind, placebo-controlled Phase II study evaluating the efficacy and safety of the monoclonal antibody Liximab in patients with moderate to severe rheumatoid arthritis. The trial, coordinated by the University of Oxford and conducted across five UK centers (London, Manchester, Edinburgh, Bristol, and Leeds), enrolled 240 adults aged between 35 and 70 years. Participants had an inadequate response to methotrexate and were randomized 2:1 to receive either Liximab or placebo, both administered via subcutaneous injection every two weeks.
+
+After 12 weeks of treatment, patients in the Liximab group demonstrated a statistically significant improvement in the American College of Rheumatology 50 (ACR50) response rate, reaching 62% compared with 28% in the placebo group. Reductions in C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR) levels were observed as early as week 4. Adverse events were generally mild to moderate in intensity, with fatigue, nausea, and injection-site reactions being the most common. Two cases of transient liver enzyme elevation were reported, both resolving spontaneously without medical intervention.
+
+The investigators emphasized that Liximab’s mechanism of action—targeting the IL-6 receptor—aligns with established pathways involved in chronic inflammation and joint destruction. No cases of serious infection were detected, and overall tolerability was consistent with the safety profile of existing IL-6 inhibitors.
+
+# Page 2
+A post-hoc biomarker analysis performed by the Oxford Rheumatology Research Group revealed that treatment with Liximab significantly reduced circulating levels of interleukin-6 (IL-6) and tumor necrosis factor-alpha (TNF-α), confirming effective pathway inhibition. The reduction in serum amyloid A and fibrinogen concentrations further supported a systemic anti-inflammatory effect. Imaging data from ultrasound scans showed a marked reduction in synovial vascularity after 8 weeks of therapy.
+
+The study was led by Dr. Amelia Wright, principal investigator and senior lecturer at the University of Oxford. Collaborators included the National Rheumatoid Arthritis Society and funding support from AstraZeneca’s Early Immunology program. Dr. Wright stated that “Liximab demonstrates a compelling efficacy signal, suggesting potential disease modification when used early in the course of rheumatoid arthritis.”
+
+A follow-up Phase III trial is being designed to assess long-term safety, radiographic progression, and comparative efficacy against Tocilizumab and Adalimumab. Discussions with the UK Medicines and Healthcare Regulatory Agency (MHRA) are ongoing to define optimal endpoints and patient stratification criteria.
+

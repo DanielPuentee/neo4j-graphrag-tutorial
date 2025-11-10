@@ -1,0 +1,20 @@
+# Page 1
+The CARDI-RED study, conducted by the Mayo Clinic in collaboration with the Cleveland Heart Center, explored lipid-lowering strategies for patients resistant or intolerant to statins. This multicenter, double-blind trial evaluated the efficacy of a fixed-dose combination of bempedoic acid and ezetimibe compared with placebo in 310 patients with LDL cholesterol (LDL-C) levels above 160 mg/dL despite lifestyle modification and previous statin therapy.
+
+After 24 weeks, patients receiving the combination therapy demonstrated a mean LDL-C reduction of 34% relative to baseline, compared with a 5% reduction in the placebo arm (p<0.001). Importantly, no significant increase in muscle-related adverse events, commonly associated with statins, was observed. High-sensitivity C-reactive protein (hs-CRP) levels also decreased by 23%, indicating an anti-inflammatory benefit beyond lipid lowering.
+
+“These findings could redefine the standard of care for patients who cannot tolerate statins,” commented Dr. Michael Nguyen, principal investigator of the trial. “Our data show that bempedoic acid provides a safe, oral alternative for long-term cardiovascular risk management.”
+
+# Page 2
+A genomic substudy within CARDI-RED identified a subgroup of 62 patients carrying PCSK9 gene variants who exhibited even greater LDL-C reduction, averaging 42%. This observation suggests a potential gene-drug interaction, reinforcing the growing relevance of pharmacogenomics in cardiovascular prevention.
+
+The study team recommended that future guidelines include genotyping for PCSK9 and SLCO1B1 polymorphisms to personalize therapy. The authors also noted that combining bempedoic acid with PCSK9 monoclonal antibodies could yield additive effects, paving the way for combination strategies in refractory hypercholesterolemia.
+
+The research consortium plans to extend the study to evaluate long-term outcomes such as myocardial infarction rates and cardiovascular mortality. The U.S. Food and Drug Administration (FDA) has expressed interest in reviewing these findings as part of its ongoing assessment of non-statin lipid-lowering therapies.
+
+# Page 3
+A genomic substudy within CARDI-RED identified a subgroup of 62 patients carrying PCSK9 gene variants who exhibited even greater LDL-C reduction, averaging 42%. This observation suggests a potential gene-drug interaction, reinforcing the growing relevance of pharmacogenomics in cardiovascular prevention.
+
+The study team recommended that future guidelines include genotyping for PCSK9 and SLCO1B1 polymorphisms to personalize therapy. The authors also noted that combining bempedoic acid with PCSK9 monoclonal antibodies could yield additive effects, paving the way for combination strategies in refractory hypercholesterolemia.
+
+The research consortium plans to extend the study to evaluate long-term outcomes such as myocardial infarction rates and cardiovascular mortality. The U.S. Food and Drug Administration (FDA) has expressed interest in reviewing these findings as part of its ongoing assessment of non-statin lipid-lowering therapies.

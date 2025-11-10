@@ -1,0 +1,20 @@
+# Page 1
+During the 2024 European Society for Medical Oncology (ESMO) Congress in Madrid, Spanish oncology researchers presented a series of groundbreaking updates on targeted and immunotherapy-based treatments. The centerpiece of the conference was AZD5478, a next-generation EGFR inhibitor developed by AstraZeneca, which demonstrated significant activity in non-small-cell lung cancer (NSCLC) patients harboring EGFR exon 20 insertions. The Phase II data showed an objective response rate of 56% and median progression-free survival (PFS) of 10.4 months, surpassing current standards of care.
+
+Dr. Isabel Romero from Hospital Vall d’Hebron in Barcelona highlighted the importance of molecular profiling, noting that “precision oncology is no longer an aspiration—it is the standard.” The presentation emphasized the need for routine next-generation sequencing (NGS) to detect resistance mutations and guide therapy selection. Moreover, safety outcomes were favorable, with diarrhea and rash being the most frequent adverse events, consistent with other EGFR inhibitors.
+
+This presentation marked a shift toward comprehensive mutation testing across all lung cancer patients in Spain, supported by new reimbursement policies from the Ministry of Health that incentivize genomic diagnostics in tertiary hospitals.
+
+# Page 2
+Another highlight came from the collaborative trial between Hospital 12 de Octubre (Madrid) and the Spanish Breast Cancer Group (GEICAM), focusing on combination therapies for triple-negative breast cancer (TNBC). The study evaluated pembrolizumab in combination with the antibody-drug conjugate sacituzumab govitecan in patients with metastatic disease who had received at least two prior lines of therapy. The combination achieved an overall response rate of 28% and disease control rate of 64%, with median overall survival extending to 13.2 months.
+
+Researchers also discussed biomarker-driven insights, revealing that patients with PD-L1 expression ≥10% and BRCA1/2 mutations had significantly higher response rates. “These findings underscore the evolving role of immunotherapy even in traditionally hard-to-treat tumor types,” stated Dr. Laura Sánchez, co-investigator and immuno-oncologist at Hospital 12 de Octubre. Safety data indicated manageable toxicity, with neutropenia and diarrhea as the leading adverse events.
+
+The symposium closed with a call for greater collaboration between molecular pathology laboratories and oncology units to accelerate patient stratification and trial enrollment.
+
+# Page 3
+The Spanish Oncology Network (RedOnco) announced the launch of "OncoDataLink," a national digital infrastructure designed to integrate clinical, genomic, and radiomic data from over 30 cancer research centers across Spain. The initiative, supported by European funding, aims to harmonize datasets, enable AI-driven pattern recognition, and optimize clinical trial recruitment through federated learning models.
+
+Dr. Romero emphasized that such integration will “transform how oncologists interpret data, allowing faster translation of molecular insights into bedside practice.” The network will also collaborate with AstraZeneca’s Real-World Evidence division to develop dashboards for continuous post-market surveillance of novel cancer therapeutics.
+
+The Congress concluded that the next frontier in oncology will hinge not only on discovering new molecules but also on data harmonization and computational intelligence to uncover unseen relationships between drugs, genes, and patient outcomes.
